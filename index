@@ -31,6 +31,7 @@ p.lead{color:var(--mute);font-size:17px;max-width:620px}
 section{padding:100px 0}
 .center{text-align:center}.center p.lead{margin:0 auto}
 
+
 /* concept ribbon */
 .ribbon{background:var(--y);color:#111;font-size:13px;font-weight:700;text-align:center;padding:8px 16px}
 .ribbon b{font-weight:900}
